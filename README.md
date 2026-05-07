@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hii, I'm Safia 🌸
 
-<!--
-**Safia-Tch/Safia-Tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year Software Engineering Student  
+💻 Learning code and building my tech journey  
+🌷 Passionate about technology, creativity & growth  
+✨ Turning dreams into projects one step at a time
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- Web Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+🌙 Become a Full Stack Developer  
+🚀 Build amazing projects  
+💖 Keep improving every day
+
+> “small steps every day lead to big results ✨”
