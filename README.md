@@ -11,8 +11,8 @@
 - Git & GitHub
 
 ## Goals
-🌙 Become a Full Stack Developer  
-🚀 Build amazing projects  
-💖 Keep improving every day
+Become a Full Stack Developer 
+Build amazing projects  
+Keep improving every day
 
-> “small steps every day lead to big results ✨”
+> “small steps every day lead to big results 💕”
